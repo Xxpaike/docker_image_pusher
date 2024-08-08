@@ -6,8 +6,7 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 #vulhub/spring-cloud-function:3.2.2
 #vulhub/spring-cloud-gateway:3.1.0
-vulhub/spring-with-h2database:1.4.200
-#vulhub/spring-with-jackson
+vulhub/spring-with-jackson:2.8.8
 #vulhub/spring-messaging
 #vulhub/spring-data-commons
 #vulhub/spring-rest-data
