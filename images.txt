@@ -6,7 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #vulhub/spring-security-oauth2:2.0.8
 #vulhub/nacos:1.4.0
-vulhub/geoserver
+vulhub/geoserver:2.23.2
+vulhub/geoserver:2.22.1
 #vulhub/spring-security
 #vulhub/spring-webmvc
 #vulhub/spring-cloud-function
