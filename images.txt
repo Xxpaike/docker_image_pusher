@@ -6,5 +6,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 #vulhub/spring-messaging:5.0.4
 #vulhub/spring-data-commons:2.0.5
-vulhub/spring-rest-data:2.6.6
-#vulhub/spring-webflow
+#vulhub/spring-rest-data:2.6.6
+vulhub/spring-webflow:2.4.4
