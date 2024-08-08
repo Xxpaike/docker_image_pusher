@@ -10,7 +10,6 @@ nginx
 #vulhub/geoserver:2.22.1
 #vulhub/spring-security:5.6.3
 vulhub/spring-webmvc:5.3.17
-#vulhub/spring-webmvc
 #vulhub/spring-cloud-function
 #vulhub/spring-cloud-gateway
 #vulhub/spring-with-h2database
