@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #vulhub/spring-security-oauth2:2.0.8
-vulhub/nacos:1.4.0
+#vulhub/nacos:1.4.0
 vulhub/geoserver
 vulhub/spring-security
 vulhub/spring-webmvc
