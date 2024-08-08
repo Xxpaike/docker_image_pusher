@@ -4,13 +4,7 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#vulhub/spring-security-oauth2:2.0.8
-#vulhub/nacos:1.4.0
-#vulhub/geoserver:2.23.2
-#vulhub/geoserver:2.22.1
-#vulhub/spring-security:5.6.3
-vulhub/spring-webmvc:5.3.17
-#vulhub/spring-cloud-function
+vulhub/spring-cloud-function:3.2.2
 #vulhub/spring-cloud-gateway
 #vulhub/spring-with-h2database
 #vulhub/spring-with-jackson
