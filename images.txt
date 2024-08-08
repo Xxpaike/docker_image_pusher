@@ -4,8 +4,8 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/spring-cloud-function:3.2.2
-#vulhub/spring-cloud-gateway
+#vulhub/spring-cloud-function:3.2.2
+vulhub/spring-cloud-gateway:3.1.0
 #vulhub/spring-with-h2database
 #vulhub/spring-with-jackson
 #vulhub/spring-messaging
